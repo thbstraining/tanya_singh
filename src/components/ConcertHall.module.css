@@ -1,0 +1,12 @@
+/* ConcertHall.module.css */
+.concertHall {
+    margin-top: 20px;
+  }
+  
+  .seatsContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+  }
+  

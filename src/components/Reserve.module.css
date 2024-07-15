@@ -1,0 +1,44 @@
+/* Reserve.module.css */
+.reservationsContainer {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .reservationsList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .reservationItem {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+
+  }
+  
+  .reservationItem p {
+    margin: 5px 0;
+  }
+  
+  .reservationItem p:first-child {
+    font-weight: bold;
+  }
+  
+  .loadingMessage,
+  .errorMessage {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+    border-radius: 5px;
+  }
+  
+  .errorMessage {
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+  }
+  

@@ -1,0 +1,27 @@
+/* ConcertDetails.module.css */
+.concertDetails {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .confirmButton {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .confirmButton:hover {
+    background-color: #218838;
+  }
+  
+  .confirmationMessage {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  

@@ -1,0 +1,15 @@
+/* Seat.module.css */
+.seat {
+    display: inline-block;
+    text-align: center;
+    line-height: 40px;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 5px;
+    user-select: none;
+  }
+  
+  .seat:hover {
+    opacity: 0.8;
+  }
+  

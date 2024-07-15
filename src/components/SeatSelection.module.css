@@ -1,0 +1,43 @@
+/* SeatSelection.module.css */
+.seatSelection {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .seatButtons {
+    margin-top: 10px;
+  }
+  
+  .seatButton {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .seatButton:disabled {
+    background-color: #ccc;
+    color: #888;
+    cursor: not-allowed;
+  }
+  
+  .confirmButton {
+    display: inline-block;
+    background-color: #28a745;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  
+  .confirmButton:hover {
+    background-color: #218838;
+  }
+  
